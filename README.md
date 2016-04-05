@@ -15,7 +15,7 @@ As a result, to use it you have to edit two lines in the program:
  
 As of writing they are lines 21 and 22.
 
-The script is currently **linux only**, and you need the folling programs installed:
+The script is currently **linux only**, and you need the following programs installed:
 
  - Python3
  - imagemagick
