@@ -1,4 +1,5 @@
-# PDF converter for Styluslabs 'Write'
+# PDF converter for Styluslabs 'Write' - Windows Version
+## This readme is OLD - run convertWin.py in IDLE and follow the instructions.
 
 The best piece of software I have found for taking notes on a computer with an active 
 stylus (such as a Lenovo Yoga, Surface Pro etc.) is [Styluslabs Write](http://www.styluslabs.com/)
