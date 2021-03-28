@@ -1,4 +1,5 @@
-# Write now supports PDF import directly. You can probably ignore this repository.
+# Write now has an official script that does something similar to this repo.
+See https://github.com/styluslabs/templates/blob/master/pdf2write.sh
 
 
 # PDF converter for Styluslabs 'Write' - Windows Version
