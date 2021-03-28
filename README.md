@@ -1,3 +1,6 @@
+# Write now supports PDF import directly. You can probably ignore this repository.
+
+
 # PDF converter for Styluslabs 'Write' - Windows Version
 ## This readme is OLD - run convertWin.py in IDLE and follow the instructions.
 
